@@ -1,2 +1,7 @@
-# assetLooker
-A graphical tool to look for physical asset and make them register in json as per type
+# Json Tool
+A graphical tool to validate the following regarding JSON
+  ##json linter
+  ##json parser
+  ##json schema validator
+  
+#Dependencies
